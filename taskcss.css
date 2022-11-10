@@ -1,0 +1,77 @@
+body{
+    font-size: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    background-color: darkseagreen;
+}
+h3{
+    text-align: center;
+    background-color: floralwhite;
+}
+table{
+    width:100%;
+
+}
+table,td,th{
+border: darkblue 1px solid;
+border-collapse: collapse;
+}
+td{
+    width: 10px;
+}
+#color1{
+    color: whitesmoke;
+    background-color:rosybrown;
+}
+#color2{
+    color: rgb(255, 255, 255);
+  background-color:rgb(20,70,100)
+}
+#color3{
+    color:#f5f5f5 ;
+   background-color: #234562;
+}
+#align1{
+    text-align: center;
+}
+#align2{
+    text-align: right;
+}
+#dir{
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
+#dec1{
+    text-decoration: overline;
+}
+#dec2{
+    text-decoration: line-through;
+}
+#dec3{
+    text-decoration: wavy;
+}
+#trans{
+    text-transform: uppercase;
+}
+#trans1{
+    text-transform: lowercase;
+}
+#trans2{
+    text-transform: capitalize;
+}
+#p1{
+    text-indent: 40px;
+}
+#p2{
+    word-spacing: 3px;
+}
+#shad{
+    text-shadow: 3px 2px red;
+}
+#shad1{
+    text-shadow: 5px 6px blue;
+}
+#shad2{
+    text-shadow: 4px 2px cadetblue;
+}
